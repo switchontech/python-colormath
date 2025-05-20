@@ -1,6 +1,13 @@
 Python Color Math Module (colormath)
 ====================================
 
+Changes
+------------
+
+* Patch deprecated numpy code in `color_diff.py`
+* Checkout to `patch/numpy` and generate wheel file using `python3 -m build`
+
+
 .. image:: https://travis-ci.org/gtaylor/python-colormath.png?branch=master
         :target: https://travis-ci.org/gtaylor/python-colormath
 .. image:: https://pypip.in/d/colormath/badge.png
